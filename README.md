@@ -4,7 +4,7 @@
 
 ## Résumé du projet 
 
-Jeu du Morpion avec interface graphique créé grâce à JavaFX et IntelliJ.
+Jeu du Morpion avec interface graphique créé grâce à JavaFX et IntelliJ. <br>
 Fonctionne avec IntelliJ
 
 ## Compétences apprises ##
