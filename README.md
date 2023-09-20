@@ -5,10 +5,11 @@
 ## Résumé du projet 
 
 Jeu du Morpion avec interface graphique créé grâce à JavaFX et IntelliJ.
+Fonctionne avec IntelliJ
 
 ## Compétences apprises ##
 -Créer une interface graphique à l'aide de SceneBuilder et l'utiliser à l'aide de JavaFX <br>
--Utiliser Intellij et Eclipse <br>
+-Utiliser IntelliJ et Eclipse <br>
 -Utiliser le .gitignore
 
 ## Screenshots ##
