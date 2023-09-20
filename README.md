@@ -1,12 +1,16 @@
-Pour faire fonctionner le projet il faut :
+# Projet personnel #2 : Morpion avec interface graphique
 
--Télécharger au minimum la version 3.8.0 du plugin e(fx)clipse sur le Eclipse Marketplace
--Importer la librairie JavaFX au projet
--Supprimer la librairie JavaFX SDK du projet
--Ajouter une Run Configuration dans Java Application:
-  Main Class = application.Main
-  Arguments -> VM arguments : --module-path "PATH\javafx-sdk-20\lib" --add-modules javafx.controls,javafx.fxml 
+> Le morpion est un jeu de réflexion se pratiquant à deux joueurs au tour par tour et dont le but est de créer le premier un alignement sur une grille.
 
+## Résumé du projet 
 
-## Ajout à faire ##
-- Importer JavaFX avec Gradle ou Maven
+Jeu du Morpion avec interface graphique créé grâce à JavaFX et IntelliJ.
+
+## Compétences apprises ##
+-Créer une interface graphique à l'aide de SceneBuilder et l'utiliser à l'aide de JavaFX
+-Utiliser Intellij et Eclipse
+-Utiliser le .gitignore
+
+## Screenshots ##
+![image](https://github.com/DarchevilleThomas/MorpionJavaFX/assets/122434335/557c4f04-ea34-4190-ba9c-91505302e5ed)
+![image](https://github.com/DarchevilleThomas/MorpionJavaFX/assets/122434335/5ff6482e-75f1-4f13-b44d-bcd46f75d8a4)
